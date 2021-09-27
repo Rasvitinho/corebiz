@@ -1,0 +1,85 @@
+.header {
+ 
+  background: white;
+  color: white;
+  padding: .7em 1.5em 0;
+  
+}
+
+.logo {
+  margin-left: 350px;
+
+}
+
+.minhaconta{
+  background: transparent;
+  margin-left: 750px;
+  Width:74px;
+  Height:18px;
+  Top:33px;
+  Left:1427px;  
+}
+.banner {
+  width: 100%;
+}
+
+.Produtos {
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
+  
+
+}
+
+
+.footer {
+  background-color: black;
+  position: absolute;
+  width: 1920px;
+  height: 223px;
+  left: 0px;
+  top: 1158px;
+}
+
+
+
+.Produtos {
+  display: flex;
+}
+
+.endereço {
+ 
+  width: 238px;
+  height: 92px;
+  left: 380px;
+  bottom: 37px;
+  font-family: Nunito;
+  font-size: 13px;
+  line-height: 25px; 
+  color: white;
+}
+
+.localizacao {
+  position: absolute;
+  width: 109.3px;
+  height: 30.68px;
+  left: 380px;
+  bottom: 166.32px;
+  
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;  
+  color: #FFFFFF;
+}
+
+.linha {
+width: 44.94px;
+height: 0px;
+left: 380px;
+bottom: 149.89px;
+
+border: 5px solid #FFFFFF;
+}
